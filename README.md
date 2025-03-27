@@ -13,8 +13,3 @@ Criei este site do zero utilizando:
 ✅ Design otimizado  
 ✅ Integração com plugins  
 
-## 📷 Preview  
-![Screenshot](https://imgur.com/a/4MnXSpy))  
-
-## 📩 Contato  
-Caso tenha dúvidas ou sugestões, entre em contato!  
